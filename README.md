@@ -13,4 +13,4 @@
 
  Ссылка на опубликованную версию
 
-[https://your-github-username.github.io/your-repo-name/](https://your-github-username.github.io/your-repo-name/)
+https://github.com/sereja228-jpg/my-to-do-least.git
